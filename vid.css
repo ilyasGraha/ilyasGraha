@@ -1,0 +1,8 @@
+.preview {
+    width: 1200px;
+    max-width: 80%;
+    margin: 20px auto;
+    position: absolute;
+    left: 50px;
+    top: 50%;
+}
